@@ -53,7 +53,7 @@ Before you can use the PassWick API you must register your organization at [Pass
 
 ## API Documentation
 
-The detailed API documentation can be found [here](https://github.com/JasonD5150/passwick-api/wiki/APIMethods).
+[The detailed API documentation can be found here](https://github.com/JasonD5150/passwick-api/wiki/API-Methods).
 
 
 ## Feedback
